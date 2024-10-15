@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Game Development\\Cpp Book Assignment\\Player-Battle-Adventure\\Player-Battle-Adventure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9453C5D-5A35-4934-BF92-793F3C6F5D27}|Player-Battle-Adventure.vcxproj|D:\\Game Development\\Cpp Book Assignment\\Player-Battle-Adventure\\Player-Battle-Adventure\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9453C5D-5A35-4934-BF92-793F3C6F5D27}|Player-Battle-Adventure.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 196,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.h",
+              "DocumentMoniker": "D:\\Game Development\\Cpp Book Assignment\\Player-Battle-Adventure\\Player-Battle-Adventure\\Player.h",
+              "RelativeDocumentMoniker": "Player.h",
+              "ToolTip": "D:\\Game Development\\Cpp Book Assignment\\Player-Battle-Adventure\\Player-Battle-Adventure\\Player.h",
+              "RelativeToolTip": "Player.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-15T08:26:59.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

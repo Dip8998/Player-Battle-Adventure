@@ -13,7 +13,7 @@ protected:
     int additionalMaxDamage;
 
 public:
-    Player(int h, int bs, int minhl, int maxhl, int addMinDam, int addMaxDam, std::string nam);
+    Player(int h, int bs, int minhl, int maxhl, int addMinDam, int addMaxDam, string nam);
     void introduction();
     void takeDamage(int damage);
     void heal();
