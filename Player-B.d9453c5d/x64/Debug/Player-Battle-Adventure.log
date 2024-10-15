@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Game Development\Cpp Book Assignment\Player-Battle-Adventure\main.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Player-Battle-Adventure.vcxproj -> D:\Game Development\Cpp Book Assignment\Player-Battle-Adventure\x64\Debug\Player-Battle-Adventure.exe
