@@ -25,6 +25,9 @@ void gameLoop(Player& player1, Player& player2) {
             else if (choice == 'D' || choice == 'd') {
                 currentPlayer->attack(*opponentPlayer);
             }
+            else {
+                cout << "You pressed the wrong key!"<<endl;
+            }
 
             if (!opponentPlayer->isAlive()) {
                 break;
